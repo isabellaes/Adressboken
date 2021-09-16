@@ -10,7 +10,7 @@ while (true)
     Console.WriteLine($"~: ADRESSBOKEN ({numberOfPeopleInList} personer, {contacts.Length} tecken) :~\n");
     Console.ResetColor();
     Console.WriteLine("[V]isa kontakter");
-    Console.WriteLine("[L]ägg till person");
+    Console.WriteLine("[L]ägg till kontakt");
     Console.WriteLine("\n[A]vsluta [R]ensa adressboken");
 
     // Console.Write("\nVal: ");
